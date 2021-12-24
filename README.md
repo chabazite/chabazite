@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Andrew Ingalls (he/him), a full-time Scientist 👨‍🔬 working with Data Insights and Models for Medical Research.</div>  
+### <div align="center">I'm a full-time Scientist 👨‍🔬 and an aspiring Data Scientist working with Data Insights and Models for Medical Research.</div>  
   
 
-- 🖥️ I’m currently working on [Rotifer Counting Classification](https://github.com/chabazite/Rotifer_Counting)  
+- 🖥️ Visit my website at: [https://chabazite.github.io/](https://chabazite.github.io/)  
   
 
 - 📘 I’m currently learning Scikit-learn and researching cortisol related differences in A. mexicanus  
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to cortisol, A. mexicanus, or R programming  
   
 
-- ⚡ Fun fact: I can yo-yo pretty well  
+- ⚡ Fun fact: I am a boardgame fanatic and a DnD Dungeon Master. 
   
 
 <br/>  
