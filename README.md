@@ -79,14 +79,11 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
   
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=chabazite&&style=flat-square" align="center" />
