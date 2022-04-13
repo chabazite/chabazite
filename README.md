@@ -9,7 +9,7 @@
 - 🖥️ Visit my website at: [https://chabazite.github.io/](https://chabazite.github.io/)  
   
 
-- 📘 I’m currently learning Scikit-learn and researching cortisol related differences in A. mexicanus  
+- 📘 I’m currently reading Clean Code and researching cortisol related differences in A. mexicanus  
   
 
 - ❓ Ask me about anything related to cortisol, A. mexicanus, or R programming  
