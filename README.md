@@ -7,7 +7,7 @@
 - 📘 I’m currently reading Clean Code and building a neural network model to generate monster stat blocks for DMs.  
   
 
-- ❓ Ask me about...anything really. I probably don't know the answer, but I can't wait to find out.  
+- ❓ Ask me about Dungeons and Dragons, _Astyanax mexicanus_, or Data Science. If I don't know the answer, we can find out together!
   
 
 - ⚡ Fun fact: I am a boardgame fanatic and a DnD Dungeon Master. 
