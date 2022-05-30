@@ -1,18 +1,18 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://www.123rf.com/photo_102146167_vector-line-web-concept-for-programming-linear-web-banner-for-coding.html" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm a full-time Scientist 👨‍🔬 and an aspiring Data Scientist working with Data Insights and Models for Medical Research.</div>  
+### <div align="center">I'm a full-time Data Scientist 👨‍🔬 working in Medical Research.</div>  
   
 
 - 🖥️ Visit my website at: [https://chabazite.github.io/](https://chabazite.github.io/)  
   
 
-- 📘 I’m currently reading Clean Code and researching cortisol related differences in A. mexicanus  
+- 📘 I’m currently reading Clean Code and building a neural network model to generate monster stat blocks for DMs.  
   
 
-- ❓ Ask me about anything related to cortisol, A. mexicanus, or R programming  
+- ❓ Ask me about...anything really. I probably don't know the answer, but I can't wait to find out.  
   
 
 - ⚡ Fun fact: I am a boardgame fanatic and a DnD Dungeon Master. 
