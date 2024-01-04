@@ -4,7 +4,7 @@
 - 🖥️ Visit my website at: [https://chabazite.github.io/](https://chabazite.github.io/)  
   
 
-- 📘 I’m currently reading Clean Code and building a neural network model to generate monster stat blocks for DMs.  
+- 📘 I’m currently reading Mistborne and Building a Recommendation Engine for Board Games.
   
 
 - ❓ Ask me about Dungeons and Dragons, Machine Learning, or myself in general. If I don't know the answer, we can find out together!
