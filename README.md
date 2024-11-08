@@ -1,4 +1,4 @@
-### <div align="center">I'm a full-time Machine Learning Engineer working at A Place for Mom.</div>  
+### <div align="center">I'm a full-time Machine Learning Engineer working at Revecore.</div>  
   
 
 - 🖥️ Visit my website at: [https://chabazite.github.io/](https://chabazite.github.io/)  
