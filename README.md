@@ -4,7 +4,7 @@
 - 🖥️ Visit my website at: [https://chabazite.github.io/](https://chabazite.github.io/)  
   
 
-- 📘 I’m currently reading Mistborne and Building a Recommendation Engine for Board Games.
+- 📘 I’m currently reading The Dresden Files and building a cybersecurity startup from the ground up!
   
 
 - ❓ Ask me about Dungeons and Dragons, Machine Learning, or myself in general. If I don't know the answer, we can find out together!
