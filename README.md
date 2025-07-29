@@ -1,4 +1,4 @@
-### <div align="center">I'm a full-time Machine Learning Engineer working at Revecore.</div>  
+### <div align="center">I'm a co-founder and CTO for Rilevera with AI/ML background focusing on product driven technology.</div>  
   
 
 - 🖥️ Visit my website at: [https://chabazite.github.io/](https://chabazite.github.io/)  
