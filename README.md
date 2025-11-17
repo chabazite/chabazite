@@ -12,8 +12,6 @@
 
 <br/>  
 
-<div align="center">
-
 ## Languages and Tools 
 <table><tr><td valign="top" width="50%">
 
@@ -52,7 +50,6 @@
  <a href="https://stackoverflow.com/users/17762277/andrew-ingalls" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
   
 
 <br/>  
