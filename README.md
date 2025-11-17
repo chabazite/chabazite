@@ -1,4 +1,4 @@
-### <div align="center">I'm a co-founder and CTO for Rilevera with AI/ML background focusing on product driven technology.</div>  
+### I'm a co-founder and CTO for Rilevera with AI/ML background focusing on product driven technology.</div>  
    
 
 - 📘 I’m currently reading Dungeon Crawler Carl and building a cybersecurity startup from the ground up!
