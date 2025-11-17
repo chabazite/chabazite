@@ -14,7 +14,6 @@
 
 ## Languages and Tools 
 <table><tr><td valign="top" width="50%">
-
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
@@ -37,7 +36,11 @@
 <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /> 
 <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /> 
-<br/>  
+</td>
+</tr>
+</table>
+
+   <br/>  
 
 
 ## Connect with me  
