@@ -1,13 +1,10 @@
 ### <div align="center">I'm a co-founder and CTO for Rilevera with AI/ML background focusing on product driven technology.</div>  
+   
+
+- 📘 I’m currently reading Dungeon Crawler Carl and building a cybersecurity startup from the ground up!
   
 
-- 🖥️ Visit my website at: [https://chabazite.github.io/](https://chabazite.github.io/)  
-  
-
-- 📘 I’m currently reading The Dresden Files and building a cybersecurity startup from the ground up!
-  
-
-- ❓ Ask me about Dungeons and Dragons, Machine Learning, or myself in general. If I don't know the answer, we can find out together!
+- ❓ Ask me about Dungeons and Dragons, Machine Learning, product-lead technology, or myself in general. If I don't know the answer, we can find out together!
   
 
 - ⚡ Fun fact: I am a boardgame fanatic and a DnD Dungeon Master. 
@@ -58,14 +55,7 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chabazite&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+  
 
 
 ## Github Stats  
